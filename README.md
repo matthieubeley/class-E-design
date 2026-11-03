@@ -12,10 +12,10 @@ Charts for the evolution of Class E key parameters are provided in the document 
 
 #
 The script "Generic_Class_E_design.m" implements the analytical expressions with variable parameters :
-  q --> the input LC tank resonant frequency ratio
-  D --> the ON duty cycle
-  K --> the switch voltage at turn-on (0 if ZVS)
-  s --> the switch voltage derivative at turn-on (0 is ZdVS, or ZCS)
+* q --> the input LC tank resonant frequency ratio
+* D --> the ON duty cycle
+* K --> the switch voltage at turn-on (0 if ZVS)
+* s --> the switch voltage derivative at turn-on (0 is ZdVS, or ZCS)
 
 #
 Yet to be implemented --> analytical expressions for :
